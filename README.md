@@ -12,6 +12,10 @@ Your AIML teaching team
 
 ---
 
+The lab notebooks were created by the AIML Chair and are copyrighted by the AIML Chair.
+
+---
+
 This table lists all coding lab notebooks and exercise notebooks:
 
 
@@ -20,7 +24,7 @@ This table lists all coding lab notebooks and exercise notebooks:
 | <Tue, Sept. 16 | **Lab 0** | Prerequisite | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/IntroMLDL-2025Fall/main?filepath=lab_0%2FTest.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/IntroMLDL-2025Fall/blob/main/lab_0/Test.ipynb)|
 | Tue, Sept. 23            | **Lab 1** |  Python 101: Jupyter Notebooks and Python Basics               |   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/IntroMLDL-2025Fall/main?filepath=lab_1%2Flab_1.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/IntroMLDL-2025Fall/blob/main/lab_1/lab_1.ipynb)                              |
 |  Tue, Sept. 30       | **Lab 2** |  Python 102: Numerical Math & Images                |  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/IntroMLDL-2025Fall/main?filepath=lab_2%2Flab_2.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/IntroMLDL-2025Fall/blob/main/lab_2/lab_2.ipynb)
-| Tue, Oct. 7 |    no session                                
+| Tue, Oct. 7 |    no session                             
 |  Tue, Oct. 14    | **Lab 3** |  Machine Learning I<br/>(Naive Bayes)               | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/IntroMLDL-2025Fall/main?filepath=lab_3%2Flab_3.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/IntroMLDL-2025Fall/blob/main/lab_3/lab_3.ipynb)  |
 | Tue, Oct. 21    | **Lab 4** |  Machine Learning II<br/>(k Nearest-Neighbors)      | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/IntroMLDL-2025Fall/main?filepath=lab_4%2Flab_4.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/IntroMLDL-2025Fall/blob/main/lab_4/lab_4.ipynb)  |
 |   Tue, Nov. 11     | **Lab 5** |  Machine Learning III<br/>(Unsupervised Learning)       | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HSG-AIML-Teaching/IntroMLDL-2025Fall/main?filepath=lab_5%2Funsupervised.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/IntroMLDL-2025Fall/blob/main/lab_5/unsupervised.ipynb) |
